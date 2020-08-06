@@ -1,11 +1,11 @@
 def my_hash
- my_hash = {"name" => "Bria"}
+ your_hash = {"name" => "Bria"}
 
   
 end
 
 
-def shipping_manifest(keys)
+def shipping_manifest
   the_manifest = ["whale bone corset" => 5, "porcelain vases" => 2, "oil paintings" => 3]
   
   
